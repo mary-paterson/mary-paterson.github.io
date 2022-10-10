@@ -6,7 +6,7 @@ permalink: /about/
 
 ### Mary Paterson
 
-![_config.yml]({{ site.baseurl }}/images/Profile.jpg){:height="75px" width="75px"}  [Mary Paterson](https://eps.leeds.ac.uk/computing/pgr/8564/mary-paterson) is a PhD student at the University of Leeds. She is currently studying in the School of Computing using artificial intelligence (AI) in the detection of throat cancer. Before coming to Leeds Mary studied electronic and electrical engineering at the University of Birmingham. 
+<img align="left" width="75" height="75" src="https://github.com/mary-paterson/mary-paterson.github.io/blob/main/images/Profile.jpg">  [Mary Paterson](https://eps.leeds.ac.uk/computing/pgr/8564/mary-paterson) is a PhD student at the University of Leeds. She is currently studying in the School of Computing using artificial intelligence (AI) in the detection of throat cancer. Before coming to Leeds Mary studied electronic and electrical engineering at the University of Birmingham. 
 
 ### Contact me
 
