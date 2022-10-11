@@ -4,4 +4,11 @@ title: About the Project
 permalink: /aboutProject/
 ---
 
-This is a page about the project. It has so much information on it.
+### What is AI?
+Artificial intelligence (AI) is...
+
+### What is laryngeal cancer?
+Laryngeal cancer is...
+
+### How can AI detect laryngeal cancer?
+AI is very good at detecting patterns 
