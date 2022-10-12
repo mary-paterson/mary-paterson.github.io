@@ -8,7 +8,7 @@ permalink: /about/
 <table>
   
   <tr>
-    <td><img src="/images/Profile.jpg"></td>
+    <td><img src="/images/Profile.jpg" alt="" border=3 height=100 width=400></td>
     <td>[Mary Paterson](https://eps.leeds.ac.uk/computing/pgr/8564/mary-paterson) is a PhD student at the University of Leeds. She is currently studying in the School of Computing using artificial intelligence (AI) in the detection of throat cancer. Before coming to Leeds Mary studied electronic and electrical engineering at the University of Birmingham. </td>
   </tr>
 
