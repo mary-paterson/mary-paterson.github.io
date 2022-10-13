@@ -10,7 +10,7 @@ Artificial intelligence (AI) is a branch of computer science which aims to repli
 ### What is laryngeal cancer?
 The larynx (also known as the voice box) is a part of the throat which is involved in the production of speech as well as helping with breathing. 
 <figure>
-  <img  align="left" width="100"  src="/images/ThroatDiagram.jpg" style="margin:10px 10px">
+  <img  width="500"  src="/images/ThroatDiagram.jpg" style="margin:10px 10px">
   <figcaption>A diagram of the structures in the throat including the larynx. (https://www.macmillan.org.uk/cancer-information-and-support/head-and-neck-cancer/the-mouth-throat-nose-and-ears)</figcaption>
 </figure>
 
