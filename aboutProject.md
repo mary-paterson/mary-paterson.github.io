@@ -22,8 +22,8 @@ One of the initial symptoms of laryngeal cancer is hoarseness or a change in voi
 
 <table>
   <tr>
-    <th><img  width="400"  src="/images/HealthySpec.png" style="margin:10px 10px" align="left"></th>
-    <th><img  width="400"  src="/images/CancerSpec.png" style="margin:10px 10px" align="left"></th>
+    <th><img  width="350"  src="/images/HealthySpec.png" style="margin:10px 10px" align="left"></th>
+    <th><img  width="350"  src="/images/CancerSpec.png" style="margin:10px 10px" align="left"></th>
   </tr>
   <tr>
     <td>A spectrogram of a healthy person saying ah</td>
