@@ -21,11 +21,11 @@ For more information please visit the NHS website [here](https://www.nhs.uk/cond
 One of the initial symptoms of laryngeal cancer is hoarseness or a change in voice quality. However, this can also be a symptom of many other, non-cancerous, diseases. We want to investigate if AI is capable of finding the feature or features within speech which differentiates cancer and non-cancer patients. This will be investiagted in multiple different ways. Two common sets of features that will be investiagted are acoustic features and spectrograms. Acoustic features are generally focused on the amplitude and frequency of the sound. Spectrograms can be visualised as images such as the ones below.
 
 <figure>
-  <img  width="500"  src="/images/HealthySpec.jpg" style="margin:10px 10px">
+  <img  width="500"  src="/images/HealthySpec.png" style="margin:10px 10px">
   <figcaption>A spectrogram of a healthy person saying ah</figcaption>
 </figure>
 
 <figure>
-  <img  width="500"  src="/images/CancerSpec.jpg" style="margin:10px 10px">
+  <img  width="500"  src="/images/CancerSpec.png" style="margin:10px 10px">
   <figcaption>A spectrogram of a throat cancer patient saying ah</figcaption>
 </figure>
