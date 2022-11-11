@@ -12,15 +12,15 @@ permalink: /DenoisedAudio/
     <th>Denoised</th>
   </tr>
   <tr>
-    <td><audio controls>
+    <td><audio controls style="width: 200px;">
   <source src="/Audio/clean_1027-i_n.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio></td>
-    <td><audio controls>
+    <td><audio controls style="width: 200px;">
   <source src="/Audio/noisy_1027-i_n.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio></td>
-    <td><audio controls>
+    <td><audio controls style="width: 200px;">
   <source src="/Audio/denoised_1027-i_n.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio></td>
