@@ -10,3 +10,13 @@ This will compare the noisy audio to its clean and denoised versions.
   <source src="Audio/clean_1027-i_n.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
+
+<audio controls>
+  <source src="Audio/noisy_1027-i_n.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
+
+<audio controls>
+  <source src="Audio/denoised_1027-i_n.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
