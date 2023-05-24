@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /AboutTheTeam/
 ---
 
 ### [Mary Paterson](https://eps.leeds.ac.uk/computing/pgr/8564/mary-paterson)
