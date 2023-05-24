@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About the Project
-permalink: /aboutProject/
+permalink: /AboutTheProject/
 ---
 
 ### What is AI?
