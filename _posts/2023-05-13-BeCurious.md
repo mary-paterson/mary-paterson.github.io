@@ -15,3 +15,9 @@ We had so much fun at [Be Curious](https://www.leeds.ac.uk/becurious) last year 
 
 <img src="/images/BeCurious2023-2.jpg" 
      style="max-width: 30%;" />
+     
+<img src="/images/BeCurious2023-1.jpg" 
+     style="max-width: 30%;" />
+
+<img src="/images/BeCurious2023-3.jpg" 
+     style="max-width: 30%;" />
