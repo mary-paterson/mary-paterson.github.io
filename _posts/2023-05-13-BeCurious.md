@@ -7,8 +7,8 @@ We had so much fun at [Be Curious](https://www.leeds.ac.uk/becurious) last year 
 
 <table>
   <tr>
-    <th><img src="/images/BeCurious2023-2.jpg" style="max-width: 100%;" /></th>
-    <th><img src="/images/BeCurious2023-1.jpg" style="max-width: 100%;" /></th>
-    <th><img src="/images/BeCurious2023-3.jpg" style="max-width: 100%;" /></th>
+    <th><img src="/images/BeCurious2023-2.jpg" style="max-width: 95%;" /></th>
+    <th><img src="/images/BeCurious2023-1.jpg" style="max-width: 95%;" /></th>
+    <th><img src="/images/BeCurious2023-3.jpg" style="max-width: 95%;" /></th>
   </tr>
 </table>
